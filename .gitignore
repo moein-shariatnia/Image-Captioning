@@ -1,0 +1,4 @@
+*.pyc
+*.ipynb
+*.pt
+ideas/
